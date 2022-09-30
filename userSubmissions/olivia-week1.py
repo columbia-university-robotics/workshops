@@ -21,7 +21,6 @@ print(graph)
 
 goal = 4
 starting = 0
-stack = []
 visitedPoints = []
 path = []
 
