@@ -17,7 +17,6 @@ for root in graph.keys():
     for nextVal in values:
         pass
         print(str(root) + "->" + str(nextVal))
-print(graph)
 
 goal = 4
 starting = 0
